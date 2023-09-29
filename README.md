@@ -1,7 +1,7 @@
 ## Ola, Seja Bem Vimdo 👋
 
 
-&nbsp;Desculpa a ausencia de informações esse perfil esta sendo ajustado
+## &nbsp;Desculpa a ausencia de informações esse perfil esta sendo configurado
 
 ---
 
