@@ -1,7 +1,7 @@
-# Ola, Seja Bem Vindo 👋
+# Ola, Seja Bem Vindo 👋 <h1>
 
 
-### &nbsp;Desculpa a ausencia de informações esse perfil esta sendo configurado
+### &nbsp;Desculpa a ausencia de informações esse perfil esta sendo configurado <h3>
 
 ---
 
@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 
 ---
 
-https://github-readme-stats.vercel.app/api?Jrvaldir={Jrvaldir}&theme=blue-green
