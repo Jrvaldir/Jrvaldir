@@ -1,8 +1,10 @@
 ## Ola, Seja Bem Vimdo 👋
 
 
-&nbsp; Desculpa a ausencia de informações esse perfil esta sendo ajustado
+&nbsp;Desculpa a ausencia de informações esse perfil esta sendo ajustado
+
 ---
+
 <!--
 **Jrvaldir/Jrvaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
